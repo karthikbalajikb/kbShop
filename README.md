@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Minimal Starter with the CLI
 
 ## Static or Dynamic
@@ -26,3 +27,7 @@ This repo demonstrates the use of 2 different forms of Server Side Rendering.
 
 This demo is built following this guide: https://github.com/angular/angular-cli/wiki/stories-universal-rendering
 Along with https://github.com/angular/universal/tree/master/modules/ng-module-map-ngfactory-loader to enable Lazy Loading
+=======
+# kbShop
+Online e-commerce
+>>>>>>> 84c5011ec3a4b1f9a77a7b770cf1569b96f619e9
