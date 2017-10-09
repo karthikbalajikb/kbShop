@@ -1,2 +1,0 @@
-# kbShop
-Online e-commerce
