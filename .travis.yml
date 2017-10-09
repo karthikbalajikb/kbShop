@@ -1,7 +1,7 @@
 language: node_js
 node_js:
   - "6.9"
-  
+
 branches:
   only:
     - master
@@ -11,7 +11,7 @@ before_script:
   - npm install -g @angular/cli
 
 script:
-  - ng build --prod
+  - ng build --prod --bh /browser/
 
 after_success:
   - firebase deploy --token $FIREBASE_TOKEN
