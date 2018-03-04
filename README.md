@@ -1,5 +1,6 @@
-<<<<<<< HEAD
+
 # Minimal Starter with the CLI
+[![Build Status](https://travis-ci.org/karthikbalajikb/kbShop.svg?branch=master)](https://travis-ci.org/karthikbalajikb/kbShop)
 
 ## Static or Dynamic
 This repo demonstrates the use of 2 different forms of Server Side Rendering.
